@@ -19,6 +19,15 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.f
 
 You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabien-casenave).
 
+
+# Open-Data for AI physics
+<iframe
+	src="https://fabiencasenave-mmgp-demo.hf.space"
+	frameborder="0"
+	width="850"
+	height="1120"
+></iframe>
+
 # Software
 
 ## Open source projects

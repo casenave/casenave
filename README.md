@@ -1,7 +1,11 @@
+<div style="text-align: center;">
+  <img src="assets/images/banner.png" style="width:50%;" />
+</div>
+
 I am a research scientist working at Safran, the research center of [Safran Group](https://www.safran-group.com), a French multinational company that designs and manufactures aerospace and defense equipments.
 I am working on ML and Reduced-Order Modeling technologies to speed-up industrial computations.
 
-I defended my [PhD](http://casenave.github.io/files/PhD_Casenave.pdf) en 2013 and my [Habilitation](http://casenave.github.io/files/HDR_Casenave.pdf) in 2020. 
+I defended my [PhD](http://casenave.github.io/files/PhD_Casenave.pdf) en 2013 and my [Habilitation](http://casenave.github.io/files/HDR_Casenave.pdf) in 2020.
 
 # Current research interest
 
@@ -31,7 +35,7 @@ Interactive benchmark are hosted on [Hugging Face](https://huggingface.co/PLAIDc
 * [PLAID](https://github.com/PLAID-lib/plaid) (Physics Informed AI Datamodel), a library proposing an implementation for a datamodel tailored for AI and ML learning of physics problems
 * [MMGP](https://gitlab.com/drti/mmgp) (Mesh Morphing Gaussian Processes), a library for learning solutions of physics problems under non-parametrized geometrical variability
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=casenave.casenave)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=casenave.casenave) -->
 
 <!--
 **casenave/casenave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

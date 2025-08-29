@@ -35,7 +35,9 @@ Interactive benchmark are hosted on [Hugging Face](https://huggingface.co/PLAIDc
 * [PLAID](https://github.com/PLAID-lib/plaid) (Physics Informed AI Datamodel), a library proposing an implementation for a datamodel tailored for AI and ML learning of physics problems
 * [MMGP](https://gitlab.com/drti/mmgp) (Mesh Morphing Gaussian Processes), a library for learning solutions of physics problems under non-parametrized geometrical variability
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=casenave.casenave) -->
+
+---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=casenave.casenave)
 
 <!--
 **casenave/casenave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

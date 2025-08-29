@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <img src="assets/images/banner.png" style="width:50%;" />
-</div>
+<img src="assets/images/banner.png" width="40%" style="display:block; margin:auto;" />
 
 I am a research scientist working at Safran, the research center of [Safran Group](https://www.safran-group.com), a French multinational company that designs and manufactures aerospace and defense equipments.
 I am working on ML and Reduced-Order Modeling technologies to speed-up industrial computations.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/banner.png" width="40%">
+  <img src="assets/images/banner_2.png" width="60%">
 </p>
 
 I am a research scientist working at Safran, the research center of [Safran Group](https://www.safran-group.com), a French multinational company that designs and manufactures aerospace and defense equipments.

@@ -36,9 +36,6 @@ Interactive benchmark are hosted on [Hugging Face](https://huggingface.co/PLAIDc
 * [MMGP](https://gitlab.com/drti/mmgp) (Mesh Morphing Gaussian Processes), a library for learning solutions of physics problems under non-parametrized geometrical variability
 
 
----
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=casenave.casenave)
-
 <!--
 **casenave/casenave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

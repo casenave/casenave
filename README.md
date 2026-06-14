@@ -37,7 +37,7 @@ Interactive benchmark are hosted on [Hugging Face](https://huggingface.co/PLAIDc
 
 # Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=casenave&theme=dark&layout=compact) [![Casenave's GitHub stats](https://github-readme-stats.vercel.app/api?username=casenave&theme=dark&layout=compact)](https://github.com/casenave/github-readme-stats)
+[![Casenave's GitHub stats](https://github-readme-stats.vercel.app/api?username=casenave&theme=dark&layout=compact)](https://github.com/casenave/github-readme-stats) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=casenave&theme=dark&layout=compact) 
 
 <!--
 **casenave/casenave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

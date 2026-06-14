@@ -35,6 +35,7 @@ Interactive benchmark are hosted on [Hugging Face](https://huggingface.co/PLAIDc
 * [PLAID](https://github.com/PLAID-lib/plaid) (Physics Informed AI Datamodel), a library proposing an implementation for a datamodel tailored for AI and ML learning of physics problems
 * [MMGP](https://gitlab.com/drti/mmgp) (Mesh Morphing Gaussian Processes), a library for learning solutions of physics problems under non-parametrized geometrical variability
 
+# Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=casenave&layout=compact&theme=dark)
 
